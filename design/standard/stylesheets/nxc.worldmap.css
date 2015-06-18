@@ -1,0 +1,54 @@
+div.nxc_world_map_point_classes ul {
+display: block;
+list-style-image: none;
+list-style-type: none;
+margin: 0px 0px 5px 0px
+}
+
+div.nxc_world_map_point_classes ul li {
+display: block;
+float: left;
+width: auto;
+margin: 0px 5px 10px 5px
+}
+
+div.nxc_world_map_point_classes ul li.selected {
+font-weight: bold;
+}
+
+div.nxc_world_map_point_classes,
+div.nxc_world_map_points {
+position: relative;
+}
+
+div.nxc_world_map_points div.nxc_world_map_points_of_class {
+width: 100%;
+position: absolute;
+}
+
+div.clear {
+clear: both;
+}
+
+div.nxc_world_map_points_controls {
+float: right;
+margin: 5px 0px;
+}
+
+div.nxc_world_map_use_map_contiat {
+height: 600px;
+width: 700px;
+}
+
+div.ezcoa_nxc_world_map_preview {
+width: 100%;
+height: 600px;
+}
+
+div.nxc_world_map_point_footer a {
+color: #C70000;
+}
+
+div.nxc_world_map_use_map_geocoder {
+margin-top: 10px;
+}
